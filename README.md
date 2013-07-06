@@ -20,17 +20,17 @@ INSTALL
 -------
 
 You can install plasmoid just temporary:
-$ plasmapkg --install /path/to/weathernsu
+>$ plasmapkg --install /path/to/weathernsu
 
 
 Or you can use cmake as usual
 
-cd weathernsu
-mkdir build
-cd build
-cmake ..
-make
-make install
+>     $ cd weathernsu
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ make
+    # make install
 
 
 
@@ -60,4 +60,4 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-Фото для миниатюры взято из [архива СО РАН](http://soran1957.ru)
+Фото для миниатюры взято из [архива СО РАН](http://soran1957.ru).
