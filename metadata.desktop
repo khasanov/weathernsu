@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=weathernsu
+Name[ru]=Погода около НГУ
+Comment=KDE plasmoid that displays current temperature near Novosibirsk State University
+Comment[ru]=KDE плазмоид, который показывает текущую температуру около Новосибирского Государственного Университета
+Icon=weathernsu.png
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-DefaultSize=400,400
+ 
+X-KDE-PluginInfo-Author=Sergey A. Khasanov
+X-KDE-PluginInfo-Email=s.a.khasanov@gmail.com
+X-KDE-PluginInfo-Website=http://www.khasanov.pro
+X-KDE-PluginInfo-Category=Environment and Weather
+X-KDE-PluginInfo-Name=weathernsu
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/Applet
+Type=Service
